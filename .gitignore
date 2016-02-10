@@ -1,4 +1,5 @@
-AngSeedServer/build
-AngSeedClient/node_modules
-/AngSeedServer/dist/
+nbproject/private/
+semesterSeedSP/build
+semesterSeedSP/dist/
 *~
+/semesterSeedSP/nbproject/private/
